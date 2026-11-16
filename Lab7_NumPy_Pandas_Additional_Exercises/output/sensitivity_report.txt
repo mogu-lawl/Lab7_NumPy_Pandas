@@ -1,3 +1,0 @@
-=== SENSITIVITY ANALYSIS REPORT (TUPM-26-4014) ===
-Bootstrap Repetitions: 240
-Largest Change in Mean Difference Feature: 3

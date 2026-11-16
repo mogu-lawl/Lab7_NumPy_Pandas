@@ -1,5 +1,5 @@
 ## Github Link:
-
+https://github.com/mogu-lawl/Lab7_NumPy_Pandas/tree/activity7-additional-exercises/Lab7_NumPy_Pandas_Additional_Exercises
 
 ## APPENDIX 1:
 ![woah](./screenshots/exercise1.png)

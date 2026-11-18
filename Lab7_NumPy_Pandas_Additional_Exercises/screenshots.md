@@ -5,7 +5,7 @@ https://github.com/mogu-lawl/Lab7_NumPy_Pandas/tree/activity7-additional-exercis
 ![woah](./screenshots/exercise1.png)
 
 ## APPENDIX 2:
-![woah]
+![woah](./screenshots/exercise2.1.png)
 
 ## APPENDIX 3:
 ![woah](./screenshots/exercise3.png)
